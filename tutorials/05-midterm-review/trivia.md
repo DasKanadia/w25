@@ -64,7 +64,7 @@ The gradient of the loss with respect to the weights and biases of each layer.
 Something like the expected amount of "surprise" of a distribution, average level of uncertainty or average amount of information.
 </details>
 
-1.  What activation function should you use for the output of a binary classification model?
+10.  What activation function should you use for the output of a binary classification model?
 
 <details>
 <summary>Answer</summary>
@@ -78,7 +78,7 @@ Sigmoid
 It can be misleading with imbalanced classes.
 </details>
 
-1.  What is the vanishing/exploding gradient problem?
+12.  What is the vanishing/exploding gradient problem?
 
 <details>
 <summary>Answer</summary>
